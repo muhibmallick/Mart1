@@ -290,7 +290,7 @@ class _FoodPageBodyState extends State<FoodPageBody> {
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(Dimensions.Radius20),
                   color: Colors.white,
-                  boxShadow: [
+                  boxShadow: const [
                     BoxShadow(
                       color: Colors.grey,
                       blurRadius: 5,
